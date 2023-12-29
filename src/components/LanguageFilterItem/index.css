@@ -1,0 +1,21 @@
+.filter-item {
+  font-weight: bold;
+}
+.filter-item-button {
+  outline: none;
+  border: none;
+  padding: 4px 10px;
+  border-radius: 20px;
+  background: none;
+  font-weight: bold;
+}
+.filter-item-button-active {
+  outline: none;
+  border: none;
+  padding: 4px 10px;
+  border-radius: 20px;
+  background: none;
+  font-weight: bold;
+  border: 2px solid #0284c7;
+  color: #0284c7;
+}
